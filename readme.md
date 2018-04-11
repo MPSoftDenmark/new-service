@@ -1,3 +1,10 @@
+
+Our fork from: https://github.com/wyhasany/sample-service-script/
+
+#################################
+There info was:
+
+
 Note: You can acheive the same thing that this project tries to acheive by using the MetaInit package in debian:
 (https://wiki.debian.org/MetaInit)
 
