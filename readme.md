@@ -5,14 +5,16 @@ Our fork from: https://github.com/wyhasany/sample-service-script/
 There info was:
 
 
-Note: You can acheive the same thing that this project tries to acheive by using the MetaInit package in debian:
-(https://wiki.debian.org/MetaInit)
+# Install new service debianoids 
 
-# Sample service script for debianoids
 
-Look at [LSB init scripts](http://wiki.debian.org/LSBInitScripts) for more information.
+Note: 
 
-Original script taken from from [naholyr's](https://github.com/naholyr) [gist](https://gist.github.com/naholyr/4275302)
+You can proberly acheive the same thing that this project tries to acheive by using the:
+MetaInit package in debian: (https://wiki.debian.org/MetaInit)
+
+Anyway take a look at [LSB init scripts](http://wiki.debian.org/LSBInitScripts) for more information.
+
 
 ## Usage
 
